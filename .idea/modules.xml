@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_obj_detect.iml" filepath="$PROJECT_DIR$/.idea/modules/android_obj_detect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_obj_detect.app.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -71,7 +71,7 @@
         </activity>
 
         <activity
-            android:name="org.tensorflow.lite.examples.objectdetection.GyroscopeActivity"
+            android:name="org.tensorflow.lite.examples.objectdetection.org.tensorflow.lite.examples.detection.GyroscopeActivity"
             android:theme="@style/AppTheme"
             android:exported="true"
             android:icon="@mipmap/ic_launcher"
